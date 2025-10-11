@@ -1,7 +1,8 @@
 ﻿*.pth
-*.png
 *.pdf
 __pycache__/
 .idea/
 results/
 *.csv
+data/MNIST/raw/*.gz
+!images/*.png
