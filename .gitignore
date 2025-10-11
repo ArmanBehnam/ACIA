@@ -1,0 +1,7 @@
+﻿*.pth
+*.png
+*.pdf
+__pycache__/
+.idea/
+results/
+*.csv
